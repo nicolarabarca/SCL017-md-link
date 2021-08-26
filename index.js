@@ -55,6 +55,6 @@ fs.readFile("README.md", "utf-8", (err, data) => {
         console.log('finalLink https: ', finalLink)
         linksToReview.push(finalLink)
       }
-    }
+    }; //  borrar  punto y coma
   });
 });*/
