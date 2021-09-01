@@ -1,8 +1,7 @@
-const mdLinks = require("./logic.js").mdLinks
-const getUrl = require("./logic.js").getUrl
+const mdLinks = require("./logic.js").mdLinks;
 
-getUrl
-mdLinks
+mdLinks('./index.js')
+mdLinks('./Assets')
 
 
 
