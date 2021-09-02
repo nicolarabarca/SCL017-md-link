@@ -1,10 +1,9 @@
-const mdLinks = require('../');
+const isValidLink = require("./../logic").isValidLink;
 
-
-describe('mdLinks', () => {
-
-  it('should...', () => {
-    console.log('FIX ME!');
+describe("Testing from mdLinks project", () => {
+  test("should return true when link is a valid link", async () => {
+    const expectedResult = true;
+    const actualResult = await isValidLink("https://www.google.cl");
+    expect(actualResult).toBe(expectedResult);
   });
-
 });
