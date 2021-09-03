@@ -35,6 +35,11 @@
   * A continuación debes usar el siguiente comando ***Nico-mdLinks*** y agregar ruta relativa o absoluta del archivo o directorio que quieras analizar. En La foto que adjunto a continuación yo ocupo el nombre del directorio assets que contiene un archivo .md y otros de formatos diferentes.
   
   ![Comando](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/terminal%20nicomd2.png)
+  
+  * Por último hacer  click en la tecla ***Enter*** y ***voilà*** ya tienes el resultado del analisis de tu archivo o directorio.
+  
+  ![Análisis](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/terminal%20nicomd3.png)
+  
 
         
         
