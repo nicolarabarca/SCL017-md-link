@@ -11,22 +11,24 @@
 
 ***
 
-## 1. ¿Qué es nico-md? 
+## 1. ¿Qué es nico-md?  ![libreria](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/libreria.png)
 
 ***nico-md*** es un lenguaje de marcado ligero que manejan texto plano, ayudando asi a conseguir la máxima legibilidad y facilidad de  publicación (como  el conocido documento README.md).Nico-md valida especificamente si el archivo Markdown contiene links y si estos links son funcionales o se encuentran rotos.
 
 
-## 2. Diagrama de Flujo
+## 2. Diagrama de Flujo ![diagrama](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/diagrama-de-flujo%20(1).png)
 
 ![Diagrama de Flujo](https://github.com/nicolarabarca/SCL017-md-link/blob/Borrador/assets/Untitled%20Diagram%20(7).png)
 
-### 3. Instalación 
+### 3. Instalación  ![instalación](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/repair-tools.png)
+
 
   Para llevar a cabo el primer paso tienes ***2 opciones***
     - La primera opción es realizar un ***Fork*** y ***clonar*** el proyecto nico-md para luego realizar la instalaciín con el comando ***npm install -g Nico-mdLinks.*** 
     - La segunda opción es ***descargar*** directamente el proyecto y luego realizar la instalación con el comando ***npm install -g Nico-mdLinks.***
     
-#### 4. Indicaciones de como debes usar la librería
+#### 4. Indicaciones de como debes usar la librería ![indicaciones](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/portapapeles.png)
+
 
   * Abriremos la terminal de tu editor de código o tu gitbash (o el que tu prefieras), como se muestra en la siguiente imagen.
   
@@ -41,7 +43,7 @@
   ![Análisis](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/terminal%20nicomd3.png)
   
   
- ##### 5. ¿Qué muestra el análisis?
+ ##### 5. ¿Qué muestra el análisis? ![análisis](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/computadora.png)
  
   * El análisis saludará a tu directorio o archivo.
   *Analiza y muestra si tu ruta corresponde a un archivo o directorio. ***Si*** es directorio retornará ***true*** o de lo contrario retornará ***false*** y esto quiere decir que es un archivo.
