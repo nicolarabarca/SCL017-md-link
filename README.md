@@ -30,7 +30,7 @@
   * Adjunta archivo o directorio que desees revisar a proyecto nico-md.
   * Una vez realizado el primer paso vamos a abrir la terminal de tu editor de código o tu gitbash (o el que tu prefieras)
   
-  !Terminal](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/terminal%20nicomd.png)
+  ![Terminal](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/terminal%20nicomd.png)
 
         
         
