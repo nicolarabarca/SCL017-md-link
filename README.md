@@ -28,9 +28,13 @@
 #### 4. Indicaciones de como debes usar la librería
 
   * Adjunta archivo o directorio que desees revisar a proyecto nico-md.
-  * Una vez realizado el primer paso vamos a abrir la terminal de tu editor de código o tu gitbash (o el que tu prefieras)
+  * Una vez realizado el primer paso vamos a abrir la terminal de tu editor de código o tu gitbash (o el que tu prefieras), como se muestra en la siguiente imagen
   
   ![Terminal](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/terminal%20nicomd.png)
+  
+  * A continuación debes usar el siguiente comando ***Nico-mdLinks*** y agregar ruta relativa o absoluta del archivo o directorio que quieras analizar. En La foto que adjunto a continuación yo ocupo el nombre del directorio assets que contiene un archivo .md y otros de formatos diferentes.
+  
+  ![Comando](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/terminal%20nicomd2.png)
 
         
         
