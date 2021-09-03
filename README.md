@@ -23,7 +23,13 @@
 
   Para llevar a cabo el primer paso tienes ***2 opciones***
     - La primera opción es realizar un ***Fork*** y ***clonar*** el proyecto nico-md para luego realizar la instalacion con el comando ***npm install -g Nico-mdLinks.*** 
-    - La segunda opción es ***descargar*** directamente el proyecto y luego realizar la instalacion con el comando ***npm install -g Nico-mdLinks.*** 
+    - La segunda opción es ***descargar*** directamente el proyecto y luego realizar la instalacion con el comando ***npm install -g Nico-mdLinks.***
+    
+#### 4. Indicaciones de como debes usar la librería
+
+  * Adjunta archivo o directorio que desees revisar a proyecto nico-md.
+  * Una vez realizado el primer paso vamos a abrir la terminal de tu editor de código o tu gitbash (o el que tu prefieras)  
+
         
         
   
