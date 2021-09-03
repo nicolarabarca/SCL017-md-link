@@ -2,10 +2,11 @@
 
 ## Índice
 
-* [1. ¿Que es nico-md?](#1¿Que-es-Md-Links?)
+* [1. ¿Qué es nico-md?](#1¿Qué-es-Md-Links?)
 * [2. Diagrama de Flujo](#2Diagrama-de-Flujo)
 * [3. Instalación](#3Instalación)
 * [4. Indicaciones de como debes usar la librería](#4Indicaciones-de-como-debes-usar-la-librería)
+* [5. ¿Qué muestra el análisis?](#3¿Qué-muestra-el-análisis?)
 
 
 ***
@@ -40,7 +41,16 @@
   
   ![Análisis](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/terminal%20nicomd3.png)
   
-
+  
+ ##### 5. ¿Qué muestra el análisis?
+ 
+  * El análisis saludará a tu directorio o archivo.
+  *Analiza y muestra si tu ruta corresponde a un archivo o directorio. ***Si*** es directorio retornará ***true*** o de lo contrario retornará ***false*** y esto quiere decir que es un archivo.
+  * Luego mostrará el resultado de la ruta y nombre del archivo .md encontrado dentro del directorio.
+  *Enseguida mostrará un resumen de todos los links detectados sin importar si estos links se encuentran funcionales o rotos.
+  * A continuación validará cada uno de las URLs detectadas.
+  *Finalmente justo en el lado izquierdo de cada link mostrará el status de cada uno de estos con un ***Link Valid*** o ***Link inValid***
+ 
         
         
   
