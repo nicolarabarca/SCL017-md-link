@@ -3,8 +3,8 @@
 ## Índice
 
 * [1. ¿Que es Md-Links?](#1¿Que-es-Md-Links?)
-* [2. Diagrama de Flujo?](#2 Diagrama-de-Flujo)
-* [2. Instalación](#3 Instalación)
+* [2. Diagrama de Flujo?](#2Diagrama-de-Flujo)
+* [2. Instalación](#3Instalación)
 
 
 ***
