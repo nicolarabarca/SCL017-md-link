@@ -12,7 +12,7 @@
 
 ## 1. ¿Que es nico-md? 
 
-[nico-md] es un lenguaje de marcado ligero que manejan texto plano, ayudando asi a conseguir la máxima legibilidad y facilidad de  publicación (como  el conocido documento README.md).Nico-md valida especificamente si el archivo Markdown contiene links y si estos links son funcionales o se encuentran rotos.
+***nico-md*** es un lenguaje de marcado ligero que manejan texto plano, ayudando asi a conseguir la máxima legibilidad y facilidad de  publicación (como  el conocido documento README.md).Nico-md valida especificamente si el archivo Markdown contiene links y si estos links son funcionales o se encuentran rotos.
 
 
 ## 2. Diagrama de Flujo
@@ -21,10 +21,11 @@
 
 ### 3. Instalación 
 
-  Para llevar a cabo el primer paso tienes 2 opciones:
+  Para llevar a cabo el primer paso tienes ***2 opciones***:
   
-        -La primera opción es realizar un Fork y clonar el proyecto nico-md para luego realizar la instalacion con el comando npm install -g Nico-mdLinks. 
-        -La segunda opción es descargar directamente el proyecto y luego realizar la instalacion con el comando npm install -g Nico-mdLinks. 
+        -La primera opción es realizar un ***Fork y clonar*** el proyecto nico-md para luego realizar la instalacion con el comando ***npm install -g Nico-mdLinks.*** 
+        
+        -La segunda opción es ***descargar*** directamente el proyecto y luego realizar la instalacion con el comando ***npm install -g Nico-mdLinks.*** 
         
         
   
