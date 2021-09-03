@@ -22,10 +22,8 @@
 ### 3. Instalación 
 
   Para llevar a cabo el primer paso tienes ***2 opciones***
-  
-     La primera opción es realizar un ***Fork*** y ***clonar*** el proyecto nico-md para luego realizar la instalacion con el comando ***npm install -g Nico-mdLinks.*** 
-        
-     La segunda opción es ***descargar*** directamente el proyecto y luego realizar la instalacion con el comando ***npm install -g Nico-mdLinks.*** 
+    - La primera opción es realizar un ***Fork*** y ***clonar*** el proyecto nico-md para luego realizar la instalacion con el comando ***npm install -g Nico-mdLinks.*** 
+    - La segunda opción es ***descargar*** directamente el proyecto y luego realizar la instalacion con el comando ***npm install -g Nico-mdLinks.*** 
         
         
   
