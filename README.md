@@ -51,7 +51,7 @@
   *Enseguida mostrará un resumen de todos los links detectados sin importar si estos links se encuentran funcionales o rotos.
   * A continuación validará cada uno de las URLs detectadas.
   
-  *Finalmente justo en el lado izquierdo de cada link mostrará el status de cada uno de estos con un ***Link Valid*** o ***Link inValid***
+  * Finalmente justo en el lado izquierdo de cada link mostrará el status de cada uno de estos con un ***Link Valid*** o ***Link inValid***
   
   
   * Puedes descargar la librería directamente en este enlace https://github.com/nicolarabarca/SCL017-md-link/releases/tag/v0.0.1
