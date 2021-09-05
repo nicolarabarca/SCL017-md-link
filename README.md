@@ -50,6 +50,7 @@
   * Luego mostrará el resultado de la ruta y nombre del archivo .md encontrado dentro del directorio.
   *Enseguida mostrará un resumen de todos los links detectados sin importar si estos links se encuentran funcionales o rotos.
   * A continuación validará cada uno de las URLs detectadas.
+  
   *Finalmente justo en el lado izquierdo de cada link mostrará el status de cada uno de estos con un ***Link Valid*** o ***Link inValid***
   
   
